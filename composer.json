@@ -1,0 +1,25 @@
+{
+    "name": "polidog/league-oauth2client-module",
+    "description": "league/oauth2-client module for Ray.Di",
+    "type": "library",
+    "require": {
+        "php": ">=7.2.0",
+        "league/oauth2-client": "^2.4",
+        "ray/di": "^2.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ptyhard\\LeagueOauth2ClientModule\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "polidog",
+            "email": "polidogs@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "^2.16"
+    }
+}
