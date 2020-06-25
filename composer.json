@@ -1,5 +1,5 @@
 {
-    "name": "polidog/league-oauth2client-module",
+    "name": "ptyhard/league-oauth2client-module",
     "description": "league/oauth2-client module for Ray.Di",
     "type": "library",
     "require": {
